@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ghm/google_carto/devel_isolated/cartographer_ros/setup.sh
